@@ -1,0 +1,23 @@
+.grosary{
+    width: 20%;
+    height: 100%;
+    background-color: blueviolet;
+    
+}
+.radio
+{
+    color: white;
+    width: 100%;
+    display: flex;
+}
+.radio label{
+    
+    margin-right: 1rem;
+}
+.show_rates{
+    color: white;
+}
+.reco-btn{
+    width: 100%;
+    
+}

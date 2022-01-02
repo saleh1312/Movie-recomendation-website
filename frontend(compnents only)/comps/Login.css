@@ -1,0 +1,33 @@
+
+.Login{
+    width: 100vw;
+    height: 90vh;
+    color: black;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../data/negan2.jpg");
+    background-size: 100% 100%;
+  }
+  .Login button{
+    width: 100%;
+    margin-top: 5px;
+    padding: 12px 35px;
+    border-radius: 28px;
+    border: 2px solid;
+  }
+  .Login .normal{
+    display: block;
+    text-align: center;
+  }
+  .Login .nonValid{
+    display: block;
+    text-align: center;
+    background-color: hotpink;
+  }
+  .Login .Valid{
+    display: block;
+    text-align: center;
+    background-color: greenyellow;
+  }
