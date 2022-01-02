@@ -9,3 +9,11 @@ we implemented the movie recomnedation using this approch :
 https://www.youtube.com/watch?v=n3RKsY2H-NE
 
 
+in the githup codes only 
+
+
+the whole project here :
+
+https://www.mediafire.com/file/pd8e26affj74st3/movies+recomendation.rar/file
+
+
