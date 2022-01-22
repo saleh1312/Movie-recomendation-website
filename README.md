@@ -4,6 +4,11 @@ movie recomendation system using ( REACT + FLASK + TENSORFLOW + MYSQL(XAMPP) )
 
 
 
+##video on youtube to show the project : 
+https://www.youtube.com/watch?v=0V2BqRdZQOQ
+
+
+
 
 we implemented the movie recomnedation using this approch :
 https://www.youtube.com/watch?v=n3RKsY2H-NE
